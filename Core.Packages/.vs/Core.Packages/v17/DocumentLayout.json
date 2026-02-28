@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ONUR ULKER\\Desktop\\github\\corePackages\\Core.Packages\\",
+  "WorkspaceRootPath": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|c:\\users\\onur ulker\\desktop\\github\\corepackages\\core.packages\\core.packages\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|solutionrelative:core.packages\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\corepackages\\core.packages\\core.packages\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|solutionrelative:core.packages\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\corepackages\\core.packages\\core.packages\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|solutionrelative:core.packages\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\corepackages\\core.packages\\core.packages\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|solutionrelative:core.packages\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\corepackages\\core.packages\\core.packages\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|solutionrelative:core.packages\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\corepackages\\core.packages\\core.packages\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F525A4-E7E2-487E-8C7C-853B907CD285}|Core.Packages\\Core.Persistence.csproj|solutionrelative:core.packages\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR ULKER\\Desktop\\github\\corePackages\\Core.Packages\\Core.Packages\\Repositories\\Entity.cs",
-              "RelativeDocumentMoniker": "Core.Packages\\Repositories\\Entity.cs",
-              "ToolTip": "C:\\Users\\ONUR ULKER\\Desktop\\github\\corePackages\\Core.Packages\\Core.Packages\\Repositories\\Entity.cs",
-              "RelativeToolTip": "Core.Packages\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Packages\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Packages\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA5wCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T06:54:49.91Z",
+              "WhenOpened": "2026-02-28T20:18:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Packages\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Packages\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:17:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicQuery.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Dynamic\\DynamicQuery.cs",
+              "RelativeDocumentMoniker": "Core.Packages\\Dynamic\\DynamicQuery.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Dynamic\\DynamicQuery.cs",
+              "RelativeToolTip": "Core.Packages\\Dynamic\\DynamicQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:15:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Dynamic\\Sort.cs",
+              "RelativeDocumentMoniker": "Core.Packages\\Dynamic\\Sort.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Dynamic\\Sort.cs",
+              "RelativeToolTip": "Core.Packages\\Dynamic\\Sort.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:13:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Packages\\Dynamic\\Filter.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\corePackages\\Core.Packages\\Core.Packages\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Packages\\Dynamic\\Filter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:10:31.141Z",
               "EditorCaption": ""
             }
           ]
