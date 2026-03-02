@@ -1,15 +1,3 @@
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.deps.json
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.dll
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.pdb
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.sourcelink.json
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.dll
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\refint\Core.Persistence.dll
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.pdb
-C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\ref\Core.Persistence.dll
 C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.deps.json
 C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.dll
 C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.pdb
@@ -23,3 +11,16 @@ C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packag
 C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.pdb
 C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\ref\Core.Persistence.dll
 C:\Users\onuru\OneDrive\Masaüstü\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.deps.json
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\bin\Debug\net8.0\Core.Persistence.pdb
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.sourcelink.json
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\refint\Core.Persistence.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\Core.Persistence.pdb
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Packages\obj\Debug\net8.0\ref\Core.Persistence.dll

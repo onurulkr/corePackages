@@ -1,0 +1,16 @@
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Application.deps.json
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Application.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Application.pdb
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Persistence.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Persistence.pdb
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.AssemblyInfo.cs
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.sourcelink.json
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.App.01B2A2D7.Up2Date
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\refint\Core.Application.dll
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.pdb
+C:\Users\ONUR ULKER\Desktop\github\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\ref\Core.Application.dll
